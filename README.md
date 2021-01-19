@@ -1,1 +1,3 @@
-# nm_beginner_for_Redux
+#Vanilla Redux
+
+Learning Vanilla-Redux and React-Redux
